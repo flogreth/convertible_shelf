@@ -1,6 +1,10 @@
 # convertible shelf
 ## a milled convertible shelf for 40x30 eurocrates
 
+
+https://github.com/user-attachments/assets/e9113e3b-f629-4c9b-839b-bb42c20394e1
+
+
 <img src="https://github.com/user-attachments/assets/df000110-fbe8-4301-8671-10af97dc0219" alt="drawing" width="400"/>
 <img src="https://github.com/user-attachments/assets/12690f10-6b92-4c64-a0e0-feff867c66ac" alt="drawing" width="400"/>
 
