@@ -16,6 +16,7 @@ we have the difficulty that we have quite limited space in the workshop, on the 
 ### making of
 
 first draft was done in tinkercad, where I even animated the kinematics to get the right distance between the boxes. Because that determines how high the boxes and their contents can be. And simulating is always fun. In Tinkercad you can also add earthquake to your simulation :)
+https://www.tinkercad.com/things/jpUuGipaXcd-convertible-regal
 
 https://github.com/user-attachments/assets/2e2a1c22-4075-4f34-bf51-6150dc5c1f5f
 
