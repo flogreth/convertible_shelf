@@ -16,12 +16,12 @@ we have the difficulty that we have quite limited space in the workshop, on the 
 ### making of
 
 first draft was done in tinkercad, where I even animated the kinematics to get the right distance between the boxes. Because that determines how high the boxes and their contents can be. And simulating is always fun. In Tinkercad you can also add earthquake to your simulation :)
-<img src="https://github.com/user-attachments/assets/2e2a1c22-4075-4f34-bf51-6150dc5c1f5f" alt="drawing" width="400"/>
+https://github.com/user-attachments/assets/2e2a1c22-4075-4f34-bf51-6150dc5c1f5f
 
 Designed in Fusion 360 and milled with a stepcraft m1000.
 <img src="https://github.com/user-attachments/assets/247d77d6-2281-451a-82a5-8135936aafe6" alt="drawing" width="400"/>
 <img src="https://github.com/user-attachments/assets/3b6b005e-9cf8-4c46-b91e-1cbc600abaca" alt="drawing" width="400"/>
-<img src="https://github.com/user-attachments/assets/deeace0b-3f97-4278-a3a2-10508698a3d6" alt="draw
+<img src="https://github.com/user-attachments/assets/deeace0b-3f97-4278-a3a2-10508698a3d6" alt="drawing" width="400"/>
 
 ### versions
 
